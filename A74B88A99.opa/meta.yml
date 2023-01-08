@@ -1,0 +1,28 @@
+id: A74B88A99
+title: Aspiration for the Spread of the Khyentse Tradition
+type: translation
+pechas:
+- I6F691C90
+- I41416C1A
+- I81D86246
+- I9828B942
+- IEADCD899
+source_metadata:
+  languages:
+  - en
+  - de
+  - es
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:30:52.986670
+  last_modified_at: 2023-01-04 12:30:52.986683
+  collections:
+  - Jamyang Khyentse Wangpo Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I6F691C90/33E5: '7944'
+  I41416C1A/1913: '7944'
+  I81D86246/DE1C: '7944'
+  I9828B942/64C3: '7944'
+  IEADCD899/BAA4: '7944'
